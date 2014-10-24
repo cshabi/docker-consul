@@ -5,5 +5,7 @@
 	"ports": {
 		"dns": 53
 	},
-	"recursor": "8.8.8.8"
+	"recursor": "8.8.8.8",
+	"leave_on_terminate": true,
+	"disable_update_check ": true
 }
